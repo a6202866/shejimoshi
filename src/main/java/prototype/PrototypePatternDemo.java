@@ -1,4 +1,4 @@
-package Prototype;
+package prototype;
 
 public class PrototypePatternDemo {
     public static void main(String[] args) {

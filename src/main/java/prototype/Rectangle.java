@@ -1,4 +1,4 @@
-package Prototype;
+package prototype;
 
 /**
  * 创建扩展了上面抽象类的实体类。
